@@ -1,0 +1,8 @@
+[package]
+name        = "lex-rlp"
+version     = "0.1.0"
+lex         = "0.10.15"
+description = "RLP (Recursive Length Prefix) encoding for the Lex language."
+license     = "EUPL-1.2"
+
+[dependencies]
