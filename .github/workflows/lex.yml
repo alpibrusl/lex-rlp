@@ -7,7 +7,7 @@ on:
 
 env:
   # Pinned toolchain — bump when the local dev toolchain moves.
-  LEX_VERSION: v0.10.15
+  LEX_VERSION: v0.10.18
 
 jobs:
   build:
